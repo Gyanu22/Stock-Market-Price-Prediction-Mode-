@@ -46,6 +46,6 @@ SQLite Database
 Feel free to fork the repository, improve the code, and submit pull requests! Contributions are always welcome.
 
 📩 Contact
-🔗 GitHub: Gyanu22
+🔗 GitHub: [Gyanu22](https://github.com/Gyanu22)
 🔗 LinkedIn: https://www.linkedin.com/in/gyanoba-bhange-092506251/
 
